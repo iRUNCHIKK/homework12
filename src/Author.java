@@ -11,7 +11,7 @@ public class Author {
         return firstName;
     }
 
-    public String detLastName () {
+    public String getLastName () {
         return lastName;
     }
 }
